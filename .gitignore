@@ -1,0 +1,3 @@
+#test files usually have .key or .txt extensions
+*.key
+*.txt
